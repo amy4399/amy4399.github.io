@@ -1558,7 +1558,7 @@ plt.show()
 
 
     
-![png](output_20_3.png)
+![png](/image/output_20_3.png)
     
 
 
@@ -1586,7 +1586,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](/image/output_22_0.png)
     
 
 
@@ -1620,49 +1620,49 @@ plot_km_logOdds('paymentMethod')
 
 
     
-![png](output_24_0.png)
+![png](/image/output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](/image/output_24_1.png)
     
 
 
 
     
-![png](output_24_2.png)
+![png](/image/output_24_2.png)
     
 
 
 
     
-![png](output_24_3.png)
+![png](/image/output_24_3.png)
     
 
 
 
     
-![png](output_24_4.png)
+![png](/image/output_24_4.png)
     
 
 
 
     
-![png](output_24_5.png)
+![png](/image/output_24_5.png)
     
 
 
 
     
-![png](output_24_6.png)
+![png](/image/output_24_6.png)
     
 
 
 
     
-![png](output_24_7.png)
+![png](/image/output_24_7.png)
     
 
 
@@ -1981,7 +1981,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](/image/output_31_0.png)
     
 
 
@@ -1996,7 +1996,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](/image/output_33_0.png)
     
 
 
