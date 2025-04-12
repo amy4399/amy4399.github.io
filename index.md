@@ -1,4 +1,5 @@
 ---
+layout: home
 title: "Survival Analysis"
 date: 2024-04-12
 ---
